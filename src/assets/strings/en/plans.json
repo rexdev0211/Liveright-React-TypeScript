@@ -1,0 +1,13 @@
+{
+  "training-split": "Training Split",
+  "diet-plan": "Diet Plan",
+  "workout-plan": "Workout Plan",
+  "trainer-name": "Trainer Name",
+  "client-name": "Client Name",
+  "split-name": "Split Name",
+  "start-date": "Start Date",
+  "end-date": "End Date",
+  "days": "Days",
+  "status": "Status",
+  "started": "Started"
+}

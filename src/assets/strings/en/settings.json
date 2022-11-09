@@ -1,0 +1,36 @@
+{
+  "general": "General",
+  "title": "Settings",
+  "notifications": {
+    "title": "Notifications",
+    "settings-title": "Notification Settings",
+    "back-to-notifications": "Back to Notifications",
+    "desc": "Manage all your notifications setting from one place",
+    "payment": "Payment Related Notifications",
+    "training": "Training Plan Related Notifications",
+    "chat": "Chat Related Notifications",
+    "other": "Other Notifications",
+    "email": "Email",
+    "browser": "Browser",
+    "note": "Please note your notifications are always available from the notifications screen on the app. This just signals how you will be notified of these - as browser notifications or both"
+  },
+  "change-password": {
+    "title": "Change Password"
+  },
+  "change-email": {
+    "title": "Change Email",
+    "old-email": "Old email",
+    "new-email": "New email"
+  },
+  "language-settings": {
+    "title": "Language Settings",
+    "selected-language": "Selected Language"
+  },
+  "billings": {
+    "title": "Payment Methods",
+    "add-method": "Add New Card",
+    "card-holder": "Card Holder",
+    "expiry-date": "Expiry Date",
+    "provide-card-details": "Provide Card Details"
+  }
+}
